@@ -3,3 +3,4 @@
 app/__pycache__
 app/config.py
 .gitignore
+app\config.py
