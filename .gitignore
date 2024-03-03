@@ -1,4 +1,5 @@
 .env
 .venv
 app/__pycache__
+app/config.py
 .gitignore
