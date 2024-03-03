@@ -3,4 +3,4 @@ import os
 load_dotenv()
 
 TOKEN_TELEGRAM = os.getenv('TOKEN_TELEGRAM') 
-TOKEN_OPENAI = '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'
+TOKEN_OPENAI = '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'
